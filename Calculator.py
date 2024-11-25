@@ -1,5 +1,5 @@
 lol=input("Enter 1st no:")
-yo=input("Enter mathematical operators(+,-,*,/,^2.)")
+yo=input("Enter mathematical operators(+,-,*,/,^2).")
 if yo == "+":
     hm=input("Enter 2nd no:")
     ans=float(lol)
